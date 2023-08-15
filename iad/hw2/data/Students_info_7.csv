@@ -1,0 +1,101 @@
+index,gender,race/ethnicity,parental level of education,lunch,test preparation course,group
+700,female,group E,bachelor's degree,standard,completed,group8
+701,female,group B,some high school,standard,none,group8
+702,male,group A,bachelor's degree,standard,completed,group8
+703,female,group D,some college,standard,none,group8
+704,female,group B,some high school,free/reduced,completed,group8
+705,male,group A,bachelor's degree,free/reduced,none,group8
+706,male,group D,high school,standard,none,group8
+707,male,group C,some college,standard,none,group8
+708,male,group D,high school,standard,none,group8
+709,female,group D,associate's degree,free/reduced,completed,group8
+710,male,group C,some college,standard,completed,group8
+711,female,group E,some high school,standard,completed,group8
+712,female,group D,some college,standard,none,group8
+713,male,group D,master's degree,standard,none,group8
+714,female,group B,some high school,standard,completed,group8
+715,female,group B,associate's degree,free/reduced,completed,group8
+716,male,group C,associate's degree,standard,completed,group8
+717,female,group C,associate's degree,standard,completed,group8
+718,female,group C,high school,standard,none,group8
+719,male,group E,associate's degree,free/reduced,completed,group8
+720,female,group C,some college,free/reduced,none,group8
+721,male,group D,some high school,free/reduced,completed,group8
+722,female,group B,some high school,free/reduced,completed,group8
+723,male,group C,high school,standard,none,group8
+724,male,group B,some college,standard,none,group8
+725,male,group E,some college,standard,completed,group8
+726,female,group E,associate's degree,standard,completed,group8
+727,male,group E,some high school,standard,completed,group8
+728,female,group D,high school,free/reduced,none,group8
+729,male,group C,some college,standard,none,group8
+730,female,group B,associate's degree,free/reduced,completed,group8
+731,male,group A,some high school,free/reduced,none,group8
+732,female,group C,some college,standard,completed,group8
+733,male,group D,some high school,standard,none,group8
+734,female,group E,some college,free/reduced,none,group8
+735,male,group C,master's degree,standard,none,group8
+736,male,group C,associate's degree,standard,none,group8
+737,female,group B,some college,free/reduced,completed,group8
+738,male,group D,associate's degree,standard,none,group8
+739,male,group C,high school,free/reduced,none,group8
+740,male,group D,bachelor's degree,standard,none,group8
+741,female,group A,associate's degree,free/reduced,none,group8
+742,female,group C,high school,standard,none,group8
+743,female,group C,associate's degree,standard,completed,group8
+744,male,group B,some college,free/reduced,none,group8
+745,male,group D,associate's degree,standard,none,group8
+746,male,group D,high school,standard,none,group8
+747,male,group C,some college,standard,none,group8
+748,female,group C,bachelor's degree,free/reduced,none,group8
+749,male,group B,some college,standard,completed,group8
+750,male,group D,some high school,standard,completed,group8
+751,male,group E,some college,standard,none,group8
+752,male,group C,master's degree,free/reduced,completed,group8
+753,female,group C,some high school,standard,completed,group8
+754,male,group C,associate's degree,free/reduced,none,group8
+755,female,group E,associate's degree,standard,none,group8
+756,male,group D,some college,standard,none,group8
+757,male,group E,bachelor's degree,free/reduced,completed,group8
+758,female,group D,some college,free/reduced,completed,group8
+759,male,group B,some college,standard,completed,group8
+760,female,group C,high school,free/reduced,none,group8
+761,female,group D,some high school,standard,none,group8
+762,male,group D,some high school,standard,completed,group8
+763,female,group B,high school,standard,none,group8
+764,male,group D,some college,standard,none,group8
+765,female,group B,high school,standard,none,group8
+766,female,group C,high school,standard,completed,group8
+767,male,group B,high school,standard,completed,group8
+768,female,group D,some high school,standard,none,group8
+769,male,group A,some college,free/reduced,none,group8
+770,male,group B,high school,standard,none,group8
+771,male,group D,bachelor's degree,standard,none,group8
+772,female,group B,some high school,free/reduced,completed,group8
+773,female,group C,bachelor's degree,free/reduced,none,group8
+774,male,group B,some college,standard,none,group8
+775,female,group B,some high school,free/reduced,none,group8
+776,female,group B,high school,standard,none,group8
+777,female,group C,some college,free/reduced,none,group8
+778,female,group A,some college,standard,completed,group8
+779,male,group E,associate's degree,standard,completed,group8
+780,female,group D,associate's degree,free/reduced,none,group8
+781,female,group B,master's degree,standard,none,group8
+782,female,group B,high school,free/reduced,completed,group8
+783,female,group C,associate's degree,standard,completed,group8
+784,male,group C,bachelor's degree,standard,completed,group8
+785,female,group B,some high school,standard,completed,group8
+786,female,group E,some high school,free/reduced,none,group8
+787,female,group B,some college,standard,none,group8
+788,male,group C,associate's degree,free/reduced,none,group8
+789,female,group C,master's degree,free/reduced,none,group8
+790,female,group B,high school,standard,none,group8
+791,female,group D,some college,free/reduced,none,group8
+792,male,group D,high school,free/reduced,none,group8
+793,male,group E,some high school,standard,completed,group8
+794,female,group B,high school,standard,none,group8
+795,female,group E,associate's degree,free/reduced,completed,group8
+796,male,group D,high school,standard,none,group8
+797,female,group E,associate's degree,free/reduced,none,group8
+798,male,group E,some college,standard,none,group8
+799,female,group C,associate's degree,standard,none,group8
